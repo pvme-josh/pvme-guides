@@ -20,6 +20,8 @@ This guide covers how to get started with contributing to PVME.
     
   - Right click on your name or picture and click "Copy ID", then paste it below in the format <@YOURIDGOESHERE>
 .img:https://i.imgur.com/1fYJbxV.png
-  
+6. After this, commit your changes
+.img:https://i.imgur.com/B8Eukpx.png
+7.
 **__Successfully Completed PVME's Quick Start Contribution Tutorial__**
 <@277989267656146944>
